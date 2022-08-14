@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="co.com.linio.Runners.SeleccionProductoRunner" tests="0" skipped="0" failures="0" errors="0" timestamp="1970-01-01T00:00:00" hostname="DES09APRENDIZSE" time="0.0">
+  <properties/>
+  <system-out><![CDATA[11:15:06.854 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\rrchi\Desktop\reto\qa_screenplay\serenity.properties 
+11:15:06.959 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\rrchi\Desktop\reto\qa_screenplay\serenity.properties 
+11:15:06.963 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\rrchi\Desktop\reto\qa_screenplay\serenity.properties 
+11:15:06.974 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.driver=chrome
+11:15:06.976 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.chrome.driver=chromedriver.exe
+11:15:06.976 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.switches=--start-maximized --disable-popup-blocking
+11:15:06.976 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.take.screenshots=FOR_EACH_ACTION
+11:15:06.976 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.timeouts.implicitlywait=10000
+11:15:07.381 [Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Running feature from file:///C:/Users/rrchi/Desktop/reto/qa_screenplay/src/test/resources/features/seleccionProducto.feature
+11:15:07.575 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\rrchi\Desktop\reto\qa_screenplay\serenity.properties 
+11:15:07.657 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\rrchi\Desktop\reto\qa_screenplay\serenity.properties 
+11:15:07.657 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - LOADING LOCAL PROPERTIES FROM C:\Users\rrchi\Desktop\reto\qa_screenplay\serenity.properties 
+11:15:07.667 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.driver=chrome
+11:15:07.667 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.chrome.driver=chromedriver.exe
+11:15:07.668 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - chrome.switches=--start-maximized --disable-popup-blocking
+11:15:07.668 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - serenity.take.screenshots=FOR_EACH_ACTION
+11:15:07.669 [Test worker] DEBUG net.thucydides.core.util.PropertiesFileLocalPreferences - webdriver.timeouts.implicitlywait=10000
+11:15:07.685 [Test worker] INFO  - 
+
+-------------------------------------------------------------------------------------
+     _______. _______ .______       _______ .__   __.  __  .___________.____    ____ 
+    /       ||   ____||   _  \     |   ____||  \ |  | |  | |           |\   \  /   / 
+   |   (----`|  |__   |  |_)  |    |  |__   |   \|  | |  | `---|  |----` \   \/   /  
+    \   \    |   __|  |      /     |   __|  |  . `  | |  |     |  |       \_    _/   
+.----)   |   |  |____ |  |\  \----.|  |____ |  |\   | |  |     |  |         |  |     
+|_______/    |_______|| _| `._____||_______||__| \__| |__|     |__|         |__|    
+                                                                                     
+ News and tutorials at http://www.serenity-bdd.info                                  
+ Documentation at https://wakaleo.gitbooks.io/the-serenity-book/content/             
+ Join the Serenity Community on Gitter: https://gitter.im/serenity-bdd/serenity-core 
+ Serenity BDD Support and Training at http://serenity-bdd.info/#/trainingandsupport  
+-------------------------------------------------------------------------------------
+
+11:15:07.690 [Test worker] DEBUG net.thucydides.core.steps.StepEventBus - Test suite started for story net.thucydides.core.model.Story@61e92011
+11:15:07.693 [Test worker] INFO  - Test Suite Started: Seleccionar productos
+
+1 Scenarios (?[32m1 passed?[0m)
+4 Steps (?[32m4 passed?[0m)
+0m46.497s
+
+
+11:15:53.871 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
+11:15:54.056 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reporting formats: [JSON, HTML]
+11:15:54.088 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 1 test outcomes using: net.thucydides.core.reports.json.JSONTestOutcomeReporter@495f7ca4
+11:15:54.088 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Seleccionar productos:seleccion de productos a comprar
+11:15:54.088 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.json.JSONTestOutcomeReporter@495f7ca4: Generating report for test outcome: Seleccionar productos:seleccion de productos a comprar
+11:15:54.103 [pool-1-thread-1] DEBUG net.thucydides.core.reports.json.JSONTestOutcomeReporter - Generating JSON report for seleccion de productos a comprar to file C:\Users\rrchi\Desktop\reto\qa_screenplay\target\site\serenity\92e0c991e45b636781998ad6e264f33475709a076ca4228eb2a4c316f47c72bd.json (using temp file C:\Users\rrchi\Desktop\reto\qa_screenplay\target\site\serenity\92e0c991e45b636781998ad6e264f33475709a076ca4228eb2a4c316f47c72bd.json5e3cbbfd-d8ee-42bb-8e9b-eeba43a2cb78)
+11:15:54.375 [pool-1-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Seleccionar productos:seleccion de productos a comprar done
+11:15:54.376 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
+11:15:54.376 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 288 ms
+11:15:54.376 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Generating reports for 1 test outcomes using: net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@3050d479
+11:15:54.380 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Seleccionar productos:seleccion de productos a comprar
+11:15:54.380 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - net.thucydides.core.reports.html.HtmlAcceptanceTestReporter@3050d479: Generating report for test outcome: Seleccionar productos:seleccion de productos a comprar
+11:15:54.381 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATE TEST OUTCOME REPORT FOR seleccion de productos a comprar in 92e0c991e45b636781998ad6e264f33475709a076ca4228eb2a4c316f47c72bd
+11:15:54.497 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.model.cucumber.CucumberParser - Added feature Registro de usuario
+11:15:54.505 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.model.cucumber.CucumberParser - Added feature Seleccionar productos
+11:15:54.506 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.RequirementsTagProvider -  found:[Requirement{name='Registro de usuario', type='feature' parent = 'null', cardNumber='null'}, Requirement{name='Seleccionar productos', type='feature' parent = 'null', cardNumber='null'}]
+11:15:54.529 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.BaseRequirementsService - Requirement found for test outcome seleccion de productos a comprar-[]: Optional[Requirement{name='Seleccionar productos', type='feature' parent = 'null', cardNumber='null'}]
+11:15:54.539 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.BaseRequirementsService - Requirement found for test outcome seleccion de productos a comprar-[]: Optional[Requirement{name='Seleccionar productos', type='feature' parent = 'null', cardNumber='null'}]
+11:15:54.681 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.BaseRequirementsService - Requirement found for test outcome seleccion de productos a comprar-[]: Optional[Requirement{name='Seleccionar productos', type='feature' parent = 'null', cardNumber='null'}]
+11:15:54.681 [pool-2-thread-1] DEBUG net.thucydides.core.requirements.BaseRequirementsService - Requirement found for test outcome seleccion de productos a comprar-[]: Optional[Requirement{name='Seleccionar productos', type='feature' parent = 'null', cardNumber='null'}]
+11:15:54.734 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in 92e0c991e45b636781998ad6e264f33475709a076ca4228eb2a4c316f47c72bd_screenshots.html
+11:15:55.588 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report 92e0c991e45b636781998ad6e264f33475709a076ca4228eb2a4c316f47c72bd_screenshots.html in 854 ms
+11:15:55.591 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - GENERATING HTML REPORT FOR Seleccionar productos:seleccion de productos a comprar in 92e0c991e45b636781998ad6e264f33475709a076ca4228eb2a4c316f47c72bd.html in directory C:\Users\rrchi\Desktop\reto\qa_screenplay\target\site\serenity  
+11:15:55.594 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generating report in 92e0c991e45b636781998ad6e264f33475709a076ca4228eb2a4c316f47c72bd.html
+11:15:57.115 [pool-2-thread-1] DEBUG net.thucydides.core.reports.html.HtmlAcceptanceTestReporter - Generated report 92e0c991e45b636781998ad6e264f33475709a076ca4228eb2a4c316f47c72bd.html in 1521 ms
+11:15:57.115 [pool-2-thread-1] DEBUG net.thucydides.core.reports.ReportService - Processing test outcome Seleccionar productos:seleccion de productos a comprar done
+11:15:57.116 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Shutting down executor service
+11:15:57.116 [Test worker] DEBUG net.thucydides.core.reports.ReportService - Reports generated in: 2740 ms
+11:15:57.200 [Test worker] INFO io.cucumber.core.plugin.SerenityReporter - Cleanup test resources for URI file:///C:/Users/rrchi/Desktop/reto/qa_screenplay/src/test/resources/features/seleccionProducto.feature
+11:15:57.201 [Test worker] DEBUG net.serenitybdd.core.photography.Darkroom - Closing darkroom
+11:15:57.201 [Darkroom Processing Line] DEBUG net.serenitybdd.core.photography.DarkroomProcessingLine - Darkroom processing line shutting down
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

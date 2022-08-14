@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Registro de usuario" skipped="0" tests="1" time="32.2" timestamp="2022-08-14 10:41:07"><testcase name="Resgistro exitoso de usuario"><failure message="&#10;Expected: &lt;true&gt;&#10;     but: was &lt;false&gt;" type="java.lang.AssertionError">
+Expected: &lt;true&gt;
+     but: was &lt;false&gt;</failure><system-err>
+Expected: &lt;true&gt;
+     but: was &lt;false&gt;
+co.com.linio.StepDefinitions.RegistroStepDefinitions.podráVisualizarElNombreDeUsuarioEnLaPagina(RegistroStepDefinitions.java:56)
+✽.podrá visualizar el nombre de usuario en la pagina(file:///home/rafael/ADSI/proyecto/SQA-ScreenP/src/test/resources/features/registro.feature:8)
+</system-err></testcase></testsuite>

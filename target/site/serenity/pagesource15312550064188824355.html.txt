@@ -1,0 +1,357 @@
+<html lang="es-CO"><head><style>@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, shrink-to-fit=no, user-scalable=no"><meta http-equiv="x-ua-compatible" content="ie=edge"><title>Compra Online los mejores productos al mejor precio | Linio Colombia</title><meta name="Description" content="Compra en Línea ✓ Envío a todo Colombia ➤ La mejor y más grande tienda online"><meta property="og:type" content="website"><meta property="og:title" content="Compra Online los mejores productos al mejor precio | Linio Colombia"><meta property="og:description" content="Compra en Línea ✓ Envío a todo Colombia ➤ La mejor y más grande tienda online"><meta property="og:url" content="https://www.linio.com.co/account/login"><meta property="og:image" content="https://www.linio.com.co/assets/images/linio-by-fb-logo-og-5d63de13d0.png"><meta property="og:locale" content="es_CO"><meta property="og:site_name" content="Linio Colombia"><meta property="fb:app_id" content="147631768769163"><meta name="twitter:card" content="summary"><meta name="twitter:title" content="Compra Online los mejores productos al mejor precio | Linio Colombia"><meta name="twitter:description" content="Compra en Línea ✓ Envío a todo Colombia ➤ La mejor y más grande tienda online"><meta name="twitter:image" content="https://www.linio.com.co/assets/images/linio-by-fb-logo-og-5d63de13d0.png"><meta name="twitter:site" content="@LinioColombia"><meta name="twitter:creator" content="@LinioColombia"><meta name="apple-itunes-app" content="app-id=885989000"><meta name="keywords" content=""><meta name="format-detection" content="telephone=no"><meta name="google-site-verification" content="NjkeSCuHs_pcM6VhnK1b69yip27QlZV715MfP2WG3dY"><meta name="robots" content="NOINDEX,NOFOLLOW"><link rel="icon" href="https://www.linio.com.co/assets/images/favicon-by-fb-1f05deec69.png" type="image/x-icon"><link rel="shortcut icon" href="https://www.linio.com.co/assets/images/favicon-by-fb-1f05deec69.png" type="image/x-icon"><link rel="preconnect" href="https://us.widget.mb-srv.com"><link rel="dns-prefetch" href="https://us.widget.mb-srv.com"><link rel="preconnect" href="https://dynamic-yield.linio.com"><link rel="dns-prefetch" href="https://dynamic-yield.linio.com"><link rel="manifest" href="/manifest.json">
+    <link rel="preconnect" href="//connect.facebook.net">
+  <link rel="dns-prefetch" href="//connect.facebook.net">
+
+      <link rel="preconnect" href="//apis.google.com">
+    <link rel="dns-prefetch" href="//apis.google.com">
+        <link rel="preconnect" href="https://appleid.cdn-apple.com">
+    <link rel="dns-prefetch" href="https://appleid.cdn-apple.com">
+  
+  <script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/config.js?sdkid=C76RCIQ0VTGKPUN3HUK0&amp;hostname=www.linio.com.co"></script><script src="https://connect.facebook.net/signals/config/196782964872018?v=2.9.75&amp;r=stable" async=""></script><script src="https://connect.facebook.net/signals/plugins/identity.js?v=2.9.75" async=""></script><script type="text/javascript" async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" src="https://cdn.segment.com/next-integrations/integrations/vendor/commons.54701049fd6fb8497e9e.js.gz" async="" status="loaded"></script><script src="https://script.crazyegg.com/pages/versioned/common-scripts/11.2.17.js" type="text/javascript" async=""></script><script type="text/javascript" src="https://cdn.segment.com/next-integrations/integrations/adwords/2.5.3/adwords.dynamic.js.gz" async="" status="loaded"></script><script type="text/javascript" src="https://cdn.segment.com/next-integrations/integrations/facebook-pixel/2.11.4/facebook-pixel.dynamic.js.gz" async="" status="loaded"></script><script src="https://cdn.dynamicyield.com/scripts/1.120.0/dy-coll-min.js" type="text/javascript" async="true"></script><script type="text/javascript" async="" src="https://analytics.tiktok.com/i18n/pixel/events.js?sdkid=C76RCIQ0VTGKPUN3HUK0&amp;lib=ttq"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-41NTS6ZPH4&amp;l=dataLayer&amp;cx=c"></script><script gtm="GTM-HGQP" type="text/javascript" async="" src="https://www.google-analytics.com/gtm/optimize.js?id=OPT-PRMTR6N"></script><script type="text/javascript" async="" src="//us.widget.mb-srv.com/load.js.gz?tag=linio-co-general" id="mabayaLoader"></script><script type="text/javascript" async="" src="https://smct.co/tm/?t=linio.com.co"></script><script type="text/javascript" async="" src="https://static.ads-twitter.com/uwt.js"></script><script type="text/javascript" async="" src="https://script.crazyegg.com/pages/scripts/0013/6709.js"></script><script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion_async.js"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/8kdbNh0kln3wtV3aq4pk1g9awGJltLVb/analytics.min.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://connect.facebook.net/es_ES/sdk.js?hash=d924feb1901af65812b6520cea66c165" async="" crossorigin="anonymous"></script><script src="https://apis.google.com/_/scs/abc-static/_/js/k=gapi.lb.es.S2I_-4tI7C0.O/m=client/rt=j/sv=1/d=1/ed=1/rs=AHpOoo8GB3tZHZSWe9nogKGJprRt-QkZZQ/cb=gapi.loaded_0?le=scs" async=""></script><script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "name": "Linio",
+      "url": "https://www.linio.com.co",
+      "logo": "https://www.linio.com.co/assets/images/linio-by-fb-logo-og-5d63de13d0.png",
+      "sameAs": [
+        "https://www.facebook.com/LinioColombia/",
+        "https://twitter.com/LinioColombia/",
+        "http://www.youtube.com/LinioColombia/",
+        "https://es.wikipedia.org/wiki/Linio.com"
+      ],
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://www.linio.com.co/search?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+  </script>
+          <link hreflang="es-co" rel="alternate" href="https://www.linio.com.co/account/login">
+            <link rel="stylesheet" href="https://www.linio.com.co/assets/css/alice-d9eb42bbd0.css">
+        <script type="text/javascript">
+var lsfConfig = {
+  fbId: "915236059385535",
+  appleId: "com.linio.latam.siwa",
+  appleRedirectURI:"https://www.linio.com.co/login/oauth/apple",
+  gplusId: "859207094519-qkck9gjv05fulq8c7jiptrd5i92a6old.apps.googleusercontent.com",
+  gplusApiKey: "AIzaSyBXPBdvtvBRAGROzzb0Tm6LZinrWcEA7Bw",
+  moneyCurrency: "COP",
+  moneyCurrencyPrefix: "$",
+  moneyDecimalPrecision: 0,
+  moneyDecimalPoint: ",",
+  moneyThousandsSeparator: ".",
+  moneyCurrencySuffix: "",
+  pointsCurrencyPrefix: "PTS",
+  pointsDecimalPrecision: 0,
+  pointsDecimalPoint: "",
+  pointsThousandsSeparator: "",
+  pointsCurrencySuffix: "",
+  debug: 0,
+  shippingOptionsEnabled: 1,
+  manualFeedOnHomepageEnabled: 1,
+  searchUrl: "/search",
+  storeCards: 1,
+  storeZipcode: "0",
+  displayDiscounts: 1,
+  displayMixedPrice: 0,
+  mixedPriceFrom: "ó desde",
+  fastCheckoutEnabled: 1,
+  rewardPointsEnabled: 0,
+  cartPageEnabled: 1,
+  selectProductQuantityEnabled: 1,
+  hashableBins: ["442549","407398"],
+  country: "co",
+  store: "co",
+  thirdPartyModules: ["\/\/www.googletagmanager.com\/gtm.js?id=GTM-HGQP","\/\/dynamic-yield.linio.com\/api\/scripts\/8767555\/api_static.js","\/\/dynamic-yield.linio.com\/api\/scripts\/8767555\/api_dynamic.js","\/\/cdn.scarabresearch.com\/js\/149C578650BEA21D\/scarab-v2.js"],
+  showPriceForUnavailableProducts: 0,
+  productSoldOut: "Agotado",
+  displayClickToCall: false,
+  taxPayerIdRequired: false,
+  legalTaxpayerPersonId: "1",
+  tokenizationEnabled: 1,
+  tokenizationExcluded: [],
+  storePickupAssetPath: "https://www.linio.com.co/assets/images/icons/markers/",
+  markerClusterAssetPath: "https://www.linio.com.co/assets/js/google/markerclusterer/m",
+  searchSuggestionsUrl: "https://ui2tpjaz0x.algolia.net/1/indexes/live_autocomplete_co_query_suggestions/query",
+  searchSuggestionsLimit: 7,
+  shopInShopSuggestionsLimit: 3,
+  searchApiKey: "486a9a9c71db808ea3e247c91d442aa3",
+  searchAppId: "UI2TPJAZ0X",
+  searchInShopInShop: "en",
+  paypalBillingAgreementEnabled: "",
+  paypalKey: "AWjY51zQM3jmuFNMtLw4NDinqc323k8bOx-Eant9Wj-_U2bq40lBctDOCF0chF7k7c42NtmVBhEuxSh0",
+  paypalEnv: "production",
+  memberships: [],
+  saveForLaterEnabled: 1,
+  nationalRegistrationNumberWarning: "Para continuar ingresa tu RUT",
+  catalogDefaultViewType: "sm",
+  passwordStrength0: "Débil",
+  passwordStrength1: "Media",
+  passwordStrength2: "Segura",
+  passwordStrength3: "Muy Segura",
+  passwordStrengthHint: "Utiliza 8 caracteres como mínimo con una combinación de letras, números y símbolos.",
+  displaySponsoredProductsRedistributed: "1",
+  displayPromotionalPriceTooltip: 1,
+  replaceProductEnabled: 0,
+  headerMyAccountActive: 0,
+  storePickupSpecialNetworks: {"mall-plaza":"mall-plaza-co","retiro-punto-seller-2":"retiro-punto-seller","retiro-punto-seller-3":"retiro-punto-seller","retiro-punto-seller-4":"retiro-punto-seller","retiro-punto-seller-5":"retiro-punto-seller","retiro-punto-seller-6":"retiro-punto-seller","retiro-punto-seller-7":"retiro-punto-seller","retiro-punto-seller-8":"retiro-punto-seller","retiro-punto-seller-9":"retiro-punto-seller","retiro-punto-seller-10":"retiro-punto-seller","retiro-punto-seller-11":"retiro-punto-seller","retiro-punto-seller-12":"retiro-punto-seller","retiro-punto-seller-13":"retiro-punto-seller","retiro-punto-seller-14":"retiro-punto-seller","retiro-punto-seller-15":"retiro-punto-seller"},
+  sponsoredProductsPosition: [1,3,6,9,14,19,21,27],
+  otpEnabled: 0,
+  orderDetailUrl: "/account/order/0/details",
+  displayHeaderNew: "1",
+  cmrPointsEnabled: "1",
+  cmrDisplayCategoryOnMobileMenu: "",
+  cmrPointsDefaultCategory: "Normal",
+  newCardCondition: 0,
+  validateDniEnabled: 0,
+  supportNotificationEnabled: 0
+};
+</script>
+  <script type="text/javascript">
+var lsfTranslations = {
+  ctcCalling: "Te estamos marcando, gracias por contactarnos.",
+  ctcSuccess: "LLamada en curso, uno de nuestros agentes te atiende ahora mismo.",
+  ctcNoAnswer: "No pudimos comunicarnos contigo. <br> Si lo deseas podemos marcarte de nuevo Haz click en \"Contactarme\".",
+  ctcWrongNumber: "El número que ingresaste es incorrecto. <br> Por favor revisa que el numero de tu telefono celular sea correcto.",
+  reviewShippingInformation: "Tu tarjeta ha sido agregada, por favor verifica tu dirección y tipo de envío y agrega tu CVV, antes de finalizar tu compra",
+  cheapestOption: "Envío más barato",
+  cheapestShippingOption: "El costo de envío será el menor. Sin embargo, el tiempo de entrega puede variar dependiendo del origen del producto.",
+  fastestOption: "Envío más rápido",
+  fastestShippingOption: "Tu producto llegará en un tiempo menor al establecido al pagar un monto extra en el costo de envío.",
+  fastLaneSave: "Guardar Configuración",
+  fastLaneEnabled: "Activar \"Click y Compra\"",
+  fastLaneFreeShipping: "Envío Gratis",
+  successFastLaneMessage: "Tus configuraciones de \"Click y Compra\" se guardaron correctamente. Puedes revisar tus preferencias en esta página y editarlas cuando quieras.",
+  disableFastLaneMessage: "Tu configuracion fue desactivada exitosamente.",
+  intlPaymentRestriction: "Los productos internacionales sólo podrán pagarse con PayPal y se cobrarán en dólares. Una vez que hayas finalizado tu compra, podría haber una ligera variación en tu estado de cuenta, ya que dependerá del tipo de cambio del momento.",
+  checkoutInvalidTokenMessage: "El número BIN de su tarjeta no es valido. Por favor, intente de nuevo con otra tarjeta.",
+  selectPickupStore: "Por favor seleccione una tienda para recoger su paquete",
+  nationalRegistrationNumber: "Número de Identificación",
+  taxIdentificationNumber: "NIT (sin dígito verificador)",
+  itemShippingLoading: "Cargando...",
+  itemOutOfStock: "Agotado",
+  antiFraudChallengeCancelled: "Has cancelado el pago. No te preocupes, puedes intentarlo nuevamente.",
+  antiFraudChallengeError: "¡Algo salió mal! No pudimos procesar el pago, inténtalo nuevamente.",
+  antiFraudChallengeFailed: "Los datos proporcionados son incorrectos. Verifica la información e inténtalo nuevamente.",
+  otpCodeSent: "Nuevo código enviado.",
+  otpCodeNotSent: "Error en envío de código.",
+  inProgressOrdersStatus: "En curso",
+  deliveredOrdersStatus: "Entregado",
+  canceledOrdersStatus: "Cancelado",
+  inReturnOrdersStatus: "En devolución",
+  headerMyOrderSeeMore: "Ver más",
+  headerMyOrderSeePrevious: "Ver pedidos anteriores",
+  headerMyCartQuantity: "Cantidad:",
+  headerMyCartSubtotal: "Subtotal",
+  membershipCmrMyCmrPoints: "Mis CMR Puntos",
+  membershipCmrBalanceHave: "Tienes",
+  historyDeleteProductMessage: "Eliminaste el producto de tu historial."
+}
+</script>
+    <link rel="stylesheet" href="https://www.linio.com.co/assets/css/alice-0a4a4b4382.lazy.css"><style type="text/css" data-fbcssmodules="css:fb.css.base css:fb.css.dialog css:fb.css.iframewidget css:fb.css.customer_chat_plugin_iframe">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:"lucida grande", tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82, 82, 82, .7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://z-m-static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://z-m-static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://z-m-static.xx.fbcdn.net/rsrc.php/v3/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://z-m-static.xx.fbcdn.net/rsrc.php/v3/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0;margin:0;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://z-m-static.xx.fbcdn.net/rsrc.php/v3/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:#fff;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0, 0, 0, .4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267B2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:#fff;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0, 30, 84, .296875) 0 -1px 0}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://z-m-static.xx.fbcdn.net/rsrc.php/v3/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://z-m-static.xx.fbcdn.net/rsrc.php/v3/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}
+.fb_mpn_mobile_landing_page_slide_out{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_out_from_left{animation-duration:200ms;animation-name:fb_mpn_landing_page_slide_out_from_left;transition-timing-function:ease-in}.fb_mpn_mobile_landing_page_slide_up{animation-duration:500ms;animation-name:fb_mpn_landing_page_slide_up;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_in{animation-duration:300ms;animation-name:fb_mpn_bounce_in;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out{animation-duration:300ms;animation-name:fb_mpn_bounce_out;transition-timing-function:ease-in}.fb_mpn_mobile_bounce_out_v2{animation-duration:300ms;animation-name:fb_mpn_fade_out;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_v2{animation-duration:300ms;animation-name:fb_bounce_in_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_in_from_left{animation-duration:300ms;animation-name:fb_bounce_in_from_left;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_v2{animation-duration:300ms;animation-name:fb_bounce_out_v2;transition-timing-function:ease-in}.fb_customer_chat_bounce_out_from_left{animation-duration:300ms;animation-name:fb_bounce_out_from_left;transition-timing-function:ease-in}.fb_invisible_flow{display:inherit;height:0;overflow-x:hidden;width:0}@keyframes fb_mpn_landing_page_slide_out{0%{margin:0 12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;margin:0 24px;width:60px}}@keyframes fb_mpn_landing_page_slide_out_from_left{0%{left:12px;width:100% - 24px}60%{border-radius:18px}100%{border-radius:50%;left:12px;width:60px}}@keyframes fb_mpn_landing_page_slide_up{0%{bottom:0;opacity:0}100%{bottom:24px;opacity:1}}@keyframes fb_mpn_bounce_in{0%{opacity:.5;top:100%}100%{opacity:1;top:0}}@keyframes fb_mpn_fade_out{0%{bottom:30px;opacity:1}100%{bottom:0;opacity:0}}@keyframes fb_mpn_bounce_out{0%{opacity:1;top:0}100%{opacity:.5;top:100%}}@keyframes fb_bounce_in_v2{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}50%{transform:scale(1.03, 1.03);transform-origin:bottom right}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}}@keyframes fb_bounce_in_from_left{0%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}50%{transform:scale(1.03, 1.03);transform-origin:bottom left}100%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}}@keyframes fb_bounce_out_v2{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom right}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom right}}@keyframes fb_bounce_out_from_left{0%{opacity:1;transform:scale(1, 1);transform-origin:bottom left}100%{opacity:0;transform:scale(0, 0);transform-origin:bottom left}}@keyframes slideInFromBottom{0%{opacity:.1;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}@keyframes slideInFromBottomDelay{0%{opacity:0;transform:translateY(100%)}97%{opacity:0;transform:translateY(100%)}100%{opacity:1;transform:translateY(0)}}</style><style id="dy-common-style" class="dy-common-style" type="text/css">.dy-wysiwyg{line-height:normal;direction:ltr;align-text:left;margin:0;padding:0;background-color:transparent}.dy-wysiwyg a{text-decoration:none;color:#00e}.dynotifyjs-wrapper .dy-lb-close{z-index:1;top:-8px;right:-9px;border:none;transition:opacity .15s;opacity:.7;background-size:14px;background-repeat:no-repeat;background-position:2px;width:18px;height:18px}.dynotifyjs-wrapper .dy-lb-close:hover{opacity:1}.dynotifyjs-corner{position:fixed;margin:0;z-index:1050}.dynotifyjs-corner .dynotifyjs-container,.dynotifyjs-corner .dynotifyjs-wrapper{position:relative;display:block;height:inherit;width:inherit;margin:11px 8px}.dynotifyjs-wrapper{z-index:1;position:absolute;display:inline-block;height:0;width:0}.dynotifyjs-container{display:none;z-index:1;position:absolute}[data-dynotify-html],[data-dynotify-text]{position:relative}.dynotifyjs-arrow{position:absolute;z-index:2;width:0;height:0}.dy-lb-close{position:absolute;top:-12px;right:-11px;cursor:pointer;color:#fff;border:1px solid #918686;border-radius:30px;display:inline-block;height:22px;width:22px;background:#575757 url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNTUgNTUiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDU1IDU1IiB4bWw6c3BhY2U9InByZXNlcnZlIj48ZyBpZD0iY2xvc2UiPjxwb2x5Z29uIGZpbGw9IiNGRkZGRkYiIHBvaW50cz0iNDMuNSwxNC43IDQwLjMsMTEuNSAyNy41LDI0LjMgMTQuNywxMS41IDExLjUsMTQuNyAyNC4zLDI3LjUgMTEuNSw0MC4zIDE0LjcsNDMuNSAyNy41LDMwLjcgNDAuMyw0My41IDQzLjUsNDAuMyAzMC43LDI3LjUgIi8+PC9nPjwvc3ZnPg==);background-size:22px}.dy-full-width-notifications-close{top:5px;right:5px;z-index:1;border:none;transition:opacity .15s;-webkit-transition:opacity .15s;opacity:.7;width:18px;height:18px;position:absolute;cursor:pointer;color:#fff;border-radius:30px;display:inline-block;background:#575757 url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNTUgNTUiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDU1IDU1IiB4bWw6c3BhY2U9InByZXNlcnZlIj48ZyBpZD0iY2xvc2UiPjxwb2x5Z29uIGZpbGw9IiNGRkZGRkYiIHBvaW50cz0iNDMuNSwxNC43IDQwLjMsMTEuNSAyNy41LDI0LjMgMTQuNywxMS41IDExLjUsMTQuNyAyNC4zLDI3LjUgMTEuNSw0MC4zIDE0LjcsNDMuNSAyNy41LDMwLjcgNDAuMyw0My41IDQzLjUsNDAuMyAzMC43LDI3LjUgIi8+PC9nPjwvc3ZnPg==);background-size:14px;background-repeat:no-repeat;background-position:2px}.dy-full-width-notifications-close:hover{opacity:1}.dy_full_width_notifications_container{position:fixed;left:0;right:0;z-index:1040}.dy_full_width_notifications_container.dy_bottom_notification{bottom:0}.dy_full_width_notifications_container.dy_top_notification{top:0}.dy_full_width_notifications_container .dy_full_width_notification_instance{opacity:0;-webkit-transition:opacity .15s;transition:opacity .15s;position:relative}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_instance_active{opacity:1}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_from_bottom{-webkit-animation:dy_appear_from_bottom .25s;animation:dy_appear_from_bottom .25s}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_from_top{-webkit-animation:dy_appear_from_top .25s;animation:dy_appear_from_top .25s}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_instance_will_exit_top{-webkit-animation:dy_exit_top .25s;animation:dy_exit_top .25s;animation-fill-mode:forwards;-webkit-animation-fill-mode:forwards}.dy_full_width_notifications_container .dy_full_width_notification_instance.dy_notification_instance_will_exit_bottom{-webkit-animation:dy_exit_bottom .25s;animation:dy_exit_bottom .25s;animation-fill-mode:forwards;-webkit-animation-fill-mode:forwards}@-webkit-keyframes dy_appear_from_bottom{0%{-webkit-transform:translateY(100%);transform:translateY(100%)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes dy_appear_from_bottom{0%{-webkit-transform:translateY(100%);transform:translateY(100%)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@-webkit-keyframes dy_appear_from_top{0%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@keyframes dy_appear_from_top{0%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}100%{-webkit-transform:translateY(0);transform:translateY(0)}}@-webkit-keyframes dy_exit_top{100%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}}@keyframes dy_exit_top{100%{-webkit-transform:translateY(-100%);transform:translateY(-100%)}}@-webkit-keyframes dy_exit_bottom{100%{-webkit-transform:translateY(100%);transform:translateY(100%)}}@keyframes dy_exit_bottom{100%{-webkit-transform:translateY(100%);transform:translateY(100%)}}.dy-modal-container{position:fixed;z-index:99999;top:0;left:0;bottom:0;right:0;width:100%;height:100vh;display:table;-webkit-transition:opacity .2s ease;transition:opacity .2s ease}.dy-modal-container .dy-modal-backdrop{position:absolute;top:0;left:0;right:0;bottom:0;width:100%;height:100%;opacity:0;-webkit-transition:opacity .2s;transition:opacity .2s;background-color:#000}.dy-modal-container .dy-modal-wrapper{position:relative;z-index:1;display:table-cell;vertical-align:middle;text-align:center;width:100%}.dy-modal-container .dy-modal-wrapper.dy-modal-bottom{padding-bottom:20px;vertical-align:bottom}.dy-modal-container .dy-modal-wrapper.dy-modal-top{padding-top:20px;vertical-align:top}.dy-modal-container .dy-modal-wrapper .dy-modal-contents{position:relative;display:inline-block;-webkit-animation:dy-modal-enter .25s;animation:dy-modal-enter .25s;visibility:hidden}.dy-modal-container .dy-modal-wrapper .dy-modal-contents .dy-lb-close{z-index:1;top:-9px;right:-9px;border:none;opacity:.7;transition:opacity .15s;width:18px;height:18px;cursor:pointer;position:absolute;border-radius:30px;color:#fff;background:#575757 url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48c3ZnIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkveGxpbmsiIHg9IjBweCIgeT0iMHB4IiB2aWV3Qm94PSIwIDAgNTUgNTUiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDU1IDU1IiB4bWw6c3BhY2U9InByZXNlcnZlIj48ZyBpZD0iY2xvc2UiPjxwb2x5Z29uIGZpbGw9IiNGRkZGRkYiIHBvaW50cz0iNDMuNSwxNC43IDQwLjMsMTEuNSAyNy41LDI0LjMgMTQuNywxMS41IDExLjUsMTQuNyAyNC4zLDI3LjUgMTEuNSw0MC4zIDE0LjcsNDMuNSAyNy41LDMwLjcgNDAuMyw0My41IDQzLjUsNDAuMyAzMC43LDI3LjUgIi8+PC9nPjwvc3ZnPg==) no-repeat 2px;background-size:14px}.dy-modal-container .dy-modal-wrapper .dy-modal-contents .dy-lb-close:hover{opacity:1}@-webkit-keyframes dy-modal-enter{0%{opacity:0;-webkit-transform:scale(.5);transform:scale(.5)}50%{-webkit-transform:scale(1.05);transform:scale(1.05)}85%{-webkit-transform:scale(1.1);transform:scale(1.1)}100%{opacity:1;-webkit-transform:scale(1);transform:scale(1)}}</style><script type="text/javascript" async="true" src="//st.dynamicyield.com/st?sec=8767555&amp;inHead=true&amp;id=2787728368571311875&amp;jsession=270g5wsdqaornllsrrjpm7gqz53axjvq&amp;ref=https%3A%2F%2Fwww.linio.com.co%2F&amp;scriptVersion=1.120.0&amp;dyid_server="></script><meta http-equiv="origin-trial" content="A9wkrvp9y21k30U9lU7MJMjBj4USjLrGwV+Z8zO3J3ZBH139DOnCv3XLK2Ii40S94HG1SZ/Zeg2GSHOD3wlWngYAAAB7eyJvcmlnaW4iOiJodHRwczovL3d3dy5nb29nbGV0YWdtYW5hZ2VyLmNvbTo0NDMiLCJmZWF0dXJlIjoiUHJpdmFjeVNhbmRib3hBZHNBUElzIiwiZXhwaXJ5IjoxNjYxMjk5MTk5LCJpc1RoaXJkUGFydHkiOnRydWV9"><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/959475806/?random=1660479239492&amp;cv=9&amp;fst=1660479239492&amp;num=1&amp;label=YLDRCNf7iF8Q3uDByQM&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=768&amp;u_w=1366&amp;u_ah=741&amp;u_aw=1306&amp;u_cd=24&amp;u_his=3&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=5&amp;u_nmime=2&amp;gtm=2wg880&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.linio.com.co%2Faccount%2Flogin&amp;ref=https%3A%2F%2Fwww.linio.com.co%2F&amp;tiba=Compra%20Online%20los%20mejores%20productos%20al%20mejor%20precio%20%7C%20Linio%20Colombia&amp;auid=1608752124.1660479236&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" async="" src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/1004172317/?random=1660479239493&amp;cv=9&amp;fst=1660479239493&amp;num=1&amp;bg=ffffff&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=768&amp;u_w=1366&amp;u_ah=741&amp;u_aw=1306&amp;u_cd=24&amp;u_his=3&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=5&amp;u_nmime=2&amp;gtm=2wg880&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.linio.com.co%2Faccount%2Flogin&amp;ref=https%3A%2F%2Fwww.linio.com.co%2F&amp;tiba=Compra%20Online%20los%20mejores%20productos%20al%20mejor%20precio%20%7C%20Linio%20Colombia&amp;auid=1608752124.1660479236&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script src="https://cdn.onesignal.com/sdks/OneSignalPageSDKES6.js?v=151513" async=""></script><script type="text/javascript" async="" src="https://www.googleadservices.com/pagead/conversion/1004126625/?random=1660479239654&amp;cv=9&amp;fst=1660479239654&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;u_h=768&amp;u_w=1366&amp;u_ah=741&amp;u_aw=1306&amp;u_cd=24&amp;u_his=3&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=5&amp;u_nmime=2&amp;sendb=1&amp;ig=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.linio.com.co%2Faccount%2Flogin&amp;ref=https%3A%2F%2Fwww.linio.com.co%2F&amp;tiba=Compra%20Online%20los%20mejores%20productos%20al%20mejor%20precio%20%7C%20Linio%20Colombia&amp;hn=www.googleadservices.com&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script charset="utf-8" src="https://analytics.tiktok.com/i18n/pixel/identify.js"></script><script type="application/ld+json"></script></head>
+<body ng-app="shopping">
+    <header class="container-fluid header-slim navbar-fixed-top">
+    <div class="container">
+      <div class="row ">
+        <div class="col-lg-3 col-md-4 col-sm-4 col-4">
+          <div class="header-logo primary-logo">
+            <a title="Linio" href="/" class="navbar-brand slim-brand-powered-by-fb"></a>
+          </div>
+        </div>
+        <div class="col-lg-9 col-md-8 col-sm-8 col-8 header-slim-items-group">
+                    <div class="header-slim-item">
+            <span class="icon icon-safe-purchase icon-sm"></span>
+            <span class="body-base-xs">Compra segura</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </header>
+    <div class="wrapper wrapper-slim container-fluid">
+    <main class="container-fluid container-semi-fluid">
+                  <div class="row">
+    <div class="full-page-login login-register-container col-lg-6 offset-lg-3 col-md-9 offset-md-2 col-sm-12 offset-sm-0 col-12">
+        <ul class="nav navbar-general navbar-general-320">
+        <li class="nav-item active">
+          <a href="#login-form" data-component="tab">Iniciar Sesión</a>
+        </li>
+                  <li class="nav-item">
+            <a href="#register-form" data-component="tab">Crear cuenta</a>
+          </li>
+              </ul>
+      <div class="clearfix"></div>
+
+      <div class="tab-content register-form">
+        <div class="tab-pane active" id="login-form">
+                    <form name="login_form" method="post" action="/account/login_check" class="ng-pristine ng-valid-email ng-invalid ng-invalid-required ng-valid-pattern">
+                    <div class="row">
+            <div class="col-sm-6">
+              <label class="form-label required" for="login_form_email">Email</label>
+              <input type="email" id="login_form_email" name="login_form[email]" required="required" class="form-control ng-pristine ng-untouched ng-empty ng-valid-email ng-invalid ng-invalid-required ng-valid-pattern" placeholder="Ejemplo: jgonzalesc89@gmail.com" pattern="^[a-zA-Z0-9._%+\-]+@([a-zA-Z0-9-]{1,}\.)+[a-zA-Z]{2,}$" ng-model="email">
+            </div>
+            <div class="col-sm-6">
+              <label class="form-label required" for="login_form_password">Contraseña</label>
+              <span class="show-password show-password-icon"></span><input type="password" id="login_form_password" name="login_form[password]" required="required" class="form-control ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required" placeholder="" ng-model="pwd" data-toggle-password="">
+            </div>
+            <div class="col-sm-12">
+              <a class="link-low-sm" href="/account/password/recover/request">
+                Olvidé mi contraseña
+              </a>
+            </div>
+          </div>
+
+          
+          <button type="submit" class="btn btn-security col-12">
+            Iniciar sesión segura
+          </button>
+          <input type="hidden" id="login_form__token" name="login_form[_token]" value="409591bbd.iHJPG0mxRYop7BVJTD7Vu44DRriR3CTr38SAbQvIMFY.8SUpdCb1cPpnsy0NJ2-58eJoLvbEsGKzi4r0VWT-dSzvMDhhGd0kvFOcJQ" autocomplete="off"></form>
+        </div>
+
+                  <div class="tab-pane" id="register-form">
+                                    <form name="registration" method="post" action="/account/create" id="registration-form" class="ng-pristine ng-invalid ng-invalid-required ng-valid-email ng-invalid-validate-password">
+            <div class="row">
+                                                <div class="col-sm-6">
+                    <label class="form-label required" for="registration_firstName">Nombre</label>
+                                          <input type="text" id="registration_firstName" name="registration[firstName]" required="required" placeholder="Ej: Carlos" autocomplete="given-name" class="form-control ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required" ng-model="firstName">
+                    
+                  </div>
+                                                                <div class="col-sm-6">
+                    <label class="form-label required" for="registration_lastName">Apellido</label>
+                                          <input type="text" id="registration_lastName" name="registration[lastName]" required="required" placeholder="Ej: López Martínez" autocomplete="family-name" class="form-control ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required" ng-model="lastName">
+                    
+                  </div>
+                                                                <div class="col-sm-6">
+                    <label class="form-label required" for="registration_email">Email</label>
+                                          <input type="email" id="registration_email" name="registration[email]" required="required" placeholder="Ej: carlos@mail.com" autocomplete="email" class="form-control ng-pristine ng-untouched ng-empty ng-valid-email ng-invalid ng-invalid-required" ng-model="email">
+                    
+                  </div>
+                                                                <div class="col-sm-6">
+                    <label class="form-label required" for="registration_password">Contraseña</label>
+                                          <span class="show-password show-password-icon"></span><input type="password" id="registration_password" name="registration[password]" required="required" placeholder="" validate-password="" class="form-control ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-validate-password ng-invalid-required" ng-model="password" data-toggle-password=""><div class="tooltip-wrapper tooltip-password-validation ng-hide" ng-show="currentWarning"><div class="tooltip tooltip-hint"><span class="tooltip-header">Seguridad de la contraseña: <span class="text-"></span></span><div class="progress progress-base"><div class="progress-bar progress-bar-" role="progressbar" style="width: %;"><i class="dot"></i></div></div>Utiliza 8 caracteres como mínimo con una combinación de letras, números y símbolos.</div><div class="tooltip-arrow"></div></div>
+                    
+                  </div>
+                                                                <div class="col-sm-6">
+                    <label class="form-label" for="registration_nationalRegistrationNumber">Cédula</label>
+                                          <input type="text" id="registration_nationalRegistrationNumber" name="registration[nationalRegistrationNumber]" ng-model="nationalRegistrationNumber" ng-focus="" mask="9999999?9?9?9?" class="form-control ng-pristine ng-untouched ng-valid ng-empty">
+                    
+                  </div>
+                                                                <input type="checkbox" id="registration_acceptTerms" name="registration[acceptTerms]" required="required" class="form-control ng-pristine ng-untouched ng-empty ng-invalid ng-invalid-required" ng-model="acceptTerms" value="1">
+
+                                                                                                                                                                
+                  <label for="registration_acceptTerms" class="form-label col-sm-12">
+                    Declaro que he leído y autorizo el uso de mis datos personales de acuerdo a la <a href="/sp/privacidad" target="_blank">Autorización</a> y acepto los <a href="/sp/terminos" target="_blank">Términos y Condiciones</a> de Linio.
+                  </label>
+                                                                <input type="checkbox" id="registration_cmrPointsAcceptedSubscription" name="registration[cmrPointsAcceptedSubscription]" class="form-control ng-pristine ng-untouched ng-valid ng-empty" ng-model="cmrPointsAcceptedSubscription" value="1">
+
+                                                                                                                                                                
+                  <label for="registration_cmrPointsAcceptedSubscription" class="form-label col-sm-12">
+                    Quiero acumular los puntos de mis compras, inscribiéndome al programa CMR Puntos. Autorizo el <a href="https://assets.ctfassets.net/n8a32dlewwba/6JOtQMchhFrvJonKOa5Ovu/d7f33858d5896507e53724b3e350a367/Cl__usula_de_Autorizaci__n_General_Loyalty_VF_Abr_2021.pdf" target="_blank">Tratamiento de mis Datos Personales</a> y Acepto el <a href="https://assets.ctfassets.net/n8a32dlewwba/90w8G6IuZ5KxwY1ba5Q67/0ca8ecf914466bc724b8d003fe0c2492/LOYALTY_-_Reglamento_Programa_CMR_Puntos_Ajustado_V5.pdf" target="_blank">Reglamento del programa</a>.
+                  </label>
+                                          </div>
+
+
+            <button type="submit" class="btn btn-security col-12 btn-disabled" ng-class="{'btn-disabled': !registration.$valid}" ng-disabled="!registration.$valid" disabled="disabled">Completar registro</button>
+            <input type="hidden" id="registration__token" name="registration[_token]" value="87499b7.pnKHAlxRJLudm8rru-_kmAThmbyV5DRV000PS6Xr_sY.nyHJOxEWHe7k7fim_ruT1zO19tDlg3kBnx1IO-u-mIXgCPA7MSgSw-mvnw" autocomplete="off"></form>
+                      </div>
+        
+                            <hr>
+          <div class="col-12">
+            <div class="social-buttons-label">
+              <span>O ingresa con</span>
+            </div>
+          </div>
+          <div class="social-buttons-group row">
+            <div class="col-4">
+              <button type="button" class="btn btn-facebook ccol-12" id="login-fb" data-redirect="https://www.linio.com.co/connect/facebook">
+                <span class="hidden-sm-down d-none d-md-inline">Facebook</span>
+              </button>
+            </div>
+
+                          <div class="col-4">
+                <button type="button" class="btn btn-google col-12" id="login-google" data-redirect="https://www.linio.com.co/connect/gplus">
+                  <i class="sprite sprite-google"></i>
+                  <span class="hidden-sm-down d-none d-md-inline">Google</span>
+                </button>
+              </div>
+            
+                          <div class="col-4">
+                <button type="button" class="btn btn-apple col-12" id="login-apple" data-redirect="https://www.linio.com.co/connect/apple">
+                  <span class="hidden-sm-down d-none d-md-inline">Apple</span>
+                </button>
+              </div>
+                      </div>
+              </div>
+    </div>
+  </div>
+    </main>
+  </div>
+    <footer class="main-footer slim-footer container">
+    <div class="nav-footer">
+              <div class="footer-nav-block"><a target="_blank" href="/sp/terminos">Términos y Condiciones</a></div>
+        <div class="footer-nav-block"><a target="_blank" href="/sp/preguntas-frecuentes">Preguntas Frecuentes</a></div>
+            <div class="footer-nav-block"><a href="/">Regresar a Linio Colombia</a></div>
+      <div class="clearfix"></div>
+    </div>
+    <div class="footer-copyright">
+      © 2022 Linio Colombia | Todos los derechos reservados. 
+    </div>
+  </footer>
+  <script type="text/javascript">
+    window.addEventListener('load', function () {
+      var css = document.createElement('link');
+      css.rel = 'stylesheet';
+      css.href = 'https://www.linio.com.co/assets/css/alice-0a4a4b4382.lazy.css';
+      document.getElementsByTagName('head')[0].appendChild(css);
+    });
+  </script>
+    <script type="text/javascript" src="https://www.linio.com.co/assets/js/core-2daa0dcec8.js"></script>
+  <script type="text/javascript" src="https://www.linio.com.co/assets/js/auth-15668ccf28.js"></script>
+  <script type="text/javascript" src="https://www.linio.com.co/assets/js/shopping-8e99330199.js"></script>
+
+            <script type="text/javascript" src="//apis.google.com/js/api:client.js?onload=googleAsyncInit" gapi_processed="true"></script>
+        <script type="text/javascript" src="//connect.facebook.net/es_ES/sdk.js"></script>
+          <script type="text/javascript" src="https://appleid.cdn-apple.com/appleauth/static/jsapi/appleid/1/en_US/appleid.auth.js?" onload="appleIdAsyncInit()"></script>
+        
+        <script type="text/javascript">
+    window.dataLayer = window.dataLayer || [];
+    window.dataLayer.push([]);
+  </script>
+  <noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-HGQP" height="0" width="0" style="display:none;visibility:hidden;"></iframe>
+  </noscript>
+      
+
+<script src="//www.googletagmanager.com/gtm.js?id=GTM-HGQP" defer=""></script><script src="//dynamic-yield.linio.com/api/scripts/8767555/api_static.js" defer=""></script><script src="//dynamic-yield.linio.com/api/scripts/8767555/api_dynamic.js" defer=""></script><script src="//cdn.scarabresearch.com/js/149C578650BEA21D/scarab-v2.js" defer=""></script><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div><script type="text/javascript" id="">function setCookie(a,d,c){var b=new Date;b.setTime(b.getTime()+864E5*c);c="expires\x3d"+b.toUTCString();document.cookie=a+"\x3d"+d+"; "+c+"; path\x3d/"}function pre_setCookie(a,d,c,b){return"utm_source\x3d"+a+"\x26utm_medium\x3d"+d+"\x26utm_campaign\x3d"+c+"\x26utm_term\x3d"+b}function getCookie(a){a+="\x3d";for(var d=document.cookie.split(";"),c=0;c<d.length;c++){for(var b=d[c];" "==b.charAt(0);)b=b.substring(1);if(0==b.indexOf(a))return b.substring(a.length,b.length)}return""}
+function params_unserialize(a){if("undefined"===typeof a)return{};var d={};a=a.replace(/^\?/,"").split("\x26");for(var c=a.length,b=0,e;b<c;b++)a[b]&&(e=a[b].split("\x3d"),d[e[0]]=e[1]);return d}function isReferrerIgnored(a){if(""==a)return!1;for(var d=google_tag_manager["GTM-HGQP"].macro(13),c=!1,b=0;b<d.length;b++)-1<a.indexOf(d[b])&&(c=!0);return c}function hasPreviousData(a){a=params_unserialize(a);return""!==typeof a.utm_source&&"(direct)"!=a.utm_source?a:null}
+var cookie_name="__utm_full",utm_source="",utm_medium="",utm_campaign="",utm_term="",utm_cookie=getCookie(cookie_name),vals=params_unserialize(document.URL.split("?")[1]);
+"undefined"!==typeof vals.gclid||"undefined"!==typeof vals.gclsrc?(utm_source="google",utm_medium="cpc"):"undefined"!==typeof vals.utm_source?(utm_source=vals.utm_source,utm_medium="undefined"!==typeof vals.utm_medium?vals.utm_medium:"",utm_campaign="undefined"!==typeof vals.utm_campaign?vals.utm_campaign:"",utm_term="undefined"!==typeof vals.utm_term?vals.utm_term:""):""==document.referrer||isReferrerIgnored(document.referrer)?(_v=hasPreviousData(getCookie(cookie_name)))?(utm_source=_v.utm_source,
+utm_medium="undefined"!==typeof _v.utm_medium?_v.utm_medium:"",utm_campaign="undefined"!==typeof _v.utm_campaign?_v.utm_campaign:"",utm_term="undefined"!==typeof _v.utm_term?_v.utm_term:""):(utm_source="(direct)",utm_medium="(none)",utm_campaign="(direct)"):(utm_source=document.referrer.split("?")[0],utm_medium="referral");setCookie("__utm_medium",utm_medium,60);setCookie("__utm_source",utm_source,60);setCookie(cookie_name,pre_setCookie(utm_source,utm_medium,utm_campaign,utm_term),60);</script><script type="text/javascript" id="" src="https://cloud.wordlift.io/app/bootstrap.js?gtm=1"></script><script type="text/javascript" id="">!function(){var a=window.analytics=window.analytics||[];if(!a.initialize)if(a.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{a.invoked=!0;a.methods="trackSubmit trackClick trackLink trackForm pageview identify reset group track ready alias debug page once off on".split(" ");a.factory=function(b){return function(){var c=Array.prototype.slice.call(arguments);c.unshift(b);a.push(c);return a}};for(var e=0;e<a.methods.length;e++){var f=a.methods[e];a[f]=a.factory(f)}a.load=
+function(b,c){var d=document.createElement("script");d.type="text/javascript";d.async=!0;d.src="https://cdn.segment.com/analytics.js/v1/"+b+"/analytics.min.js";b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(d,b);a._loadOptions=c};a.SNIPPET_VERSION="4.1.0";a.load("8kdbNh0kln3wtV3aq4pk1g9awGJltLVb");a.page()}}();</script><script type="text/javascript" id="">(function(l){function m(a,c){for(var b=!0,d=a.length-1;0<=d;d--)if(a[d]===c||!c){b=!1;break}return b}function p(a,c,b){var d=[];if("first"===c)return d.push(a[0]),d;if("last"===c)return d.push(a[a.length-1]),d;for(var f,g,h,k=0;k<a.length;k++)f=c,g=a[k],h=b,("visible"===f?g.offsetWidth||g.offsetHeight||g.getClientRects().length:"hidden"===f?!(g.offsetWidth||g.offsetHeight||g.getClientRects().length):"enabled"===f?!g.disabled:"disabled"===f?g.disabled:"checked"===f?g.checked:"unchecked"===f?!g.checked:
+"selected"===f?g.selected:"unselected"===f?!g.unselected:"contains"===f&&-1<n(g).indexOf(h))&&d.push(a[k]);return d}function e(a){if(a instanceof e)return a;if(!(this instanceof e))return new e(a);if(this.length=0,this.nodes=[],a===document)this.nodes=[document];else if(a===l)this.nodes=[l];else if(a instanceof HTMLElement||a instanceof NodeList||a instanceof SVGElement)this.nodes=0<a.length?[].slice.call(a):[a],this.nodes[0]instanceof NodeList&&(this.nodes=[]);else if("string"==typeof a)if(-1<a.indexOf(":"))try{var c=
+a.split(":")[0],b=a.split(":")[1].split("(")[0],d=q(a);this.nodes=[].slice.call(document.querySelectorAll(c));this.nodes=p(this.nodes,b,d)}catch(h){}else if("\x3c"===a[0]&&"\x3e"===a[a.length-1])this.nodes=[(f=a,(g=document.createElement("div")).innerHTML=f,g.firstChild)];else try{this.nodes=[].slice.call(document.querySelectorAll(a))}catch(h){this.nodes=[]}else a instanceof Array&&(this.nodes=a);var f,g;if(this.nodes[0]||(this.nodes=[]),this.nodes.length)for(this.length=this.nodes.length,a=0;a<this.nodes.length;a++)this[a]=
+this.nodes[a]}var n=function(a){var c,b="";(a instanceof SVGAElement||a instanceof HTMLElement)&&(a=[a]);for(var d=0;a[d];d++)3===(c=a[d]).nodeType||4===c.nodeType?b+=c.nodeValue:8!==c.nodeType&&(b+=n(c.childNodes));return b},q=function(a){try{return a.match(/\(([^)]+)\)/)[1].trim().replace(/'/g,"").replace(/"/g,"")}catch(c){return""}};(e.fn=e.prototype).each=function(a){for(var c=0;c<this.length;c++)a.call(this[c],this,c);return this};e.fn.text=function(a){try{return n(this.nodes)}catch(c){return""}};
+e.fn.closest=function(a){try{for(var c=[],b=0;b<this.length;b++){var d=this[b].closest(a);m(c,d)&&c.push(d)}return e(c)}catch(f){return e()}};e.fn.find=function(a){try{for(var c=[],b=0;b<this.length;b++)for(var d=this[b].querySelectorAll(a),f=0;f<d.length;f++)m(c,d[f])&&c.push(d[f]);return e(c)}catch(g){return e()}};e.fn.siblings=function(){try{for(var a=[],c=0;c<this.length;c++){for(var b=Array.prototype.slice.call(this[c].parentNode.children),d=b.length;d--;)if(b[d]===this[c]){b.splice(d,1);break}b.forEach(function(f){m(a,
+f)&&a.push(f)})}return e(a)}catch(f){return e()}};e.fn.filter=function(a){try{var c=a.replace(":","").split("(")[0],b=q(a);return e(p(this.nodes,c,b))}catch(d){return e()}};e.fn.is=function(a){try{for(var c=0;c<this.length;c++){a:{var b=this[c],d=a,f=b.matches||b.matchesSelector||b.msMatchesSelector||b.mozMatchesSelector||b.webkitMatchesSelector||b.oMatchesSelector;if(f)var g=f.call(b,d);else{for(var h=b.parentNode.querySelectorAll(d),k=h.length;k--;)if(h[k]===b){g=!0;break a}g=!1}}if(g)return!0}return!1}catch(r){return!1}};
+e.fn.eq=function(a){try{return e(this[a])}catch(c){return e()}};e.fn.attr=function(a){try{return this[0].getAttribute(a)?this[0].getAttribute(a):""}catch(c){return""}};e.fn.val=function(){try{return this[0].value||""}catch(a){return""}};e.fn.index=function(a){try{if(void 0===a){if(1>this.length||!this[0].parentElement)return-1;for(var c=this[0].parentElement.children,b=0;b<c.length;b++)if(c[b]===this[0])return b;return-1}if(a&&!a.nodes&&(a=e(a)),a){if(1<a.length&&0<this.length){for(b=0;b<a.length;b++)if(a[b]===
+this[0])return b;return-1}if(1<this.length&&0<a.length)for(b=0;b<this.length;b++)if(a[0]===this[b])return b}return-1}catch(d){return-1}};e.fn.on=function(a,c){return this.each(function(){"blur"===a?a="focusout":"focus"===a&&(a="focusin");this.addEventListener(a,c,!1)})};l.mh$=e})(window);</script><script type="text/javascript" id="">function setCookie(d,e,b){var a=new Date;a.setTime(a.getTime()+864E5*b);var c="";0<b&&(c=";expires\x3d"+a.toUTCString());document.cookie=d+"\x3d"+e+c+"; path\x3d/"}
+if(google_tag_manager["GTM-HGQP"].macro(17)){var count=0,prev_url=document.referrer;void 0!=google_tag_manager["GTM-HGQP"].macro(18)&&""!=google_tag_manager["GTM-HGQP"].macro(19)&&(count=parseInt(google_tag_manager["GTM-HGQP"].macro(20)));-1<prev_url.indexOf("linio.com.mx")&&count++;"success"==google_tag_manager["GTM-HGQP"].macro(21)?setCookie("__siteUnderVisits",count.toString(),60):setCookie("__siteUnderVisits",count.toString(),0)};</script><script type="text/javascript" id="">(function(a){var b=a.createElement("script");b.type="text/javascript";b.async=!0;b.src="//us.widget.mb-srv.com/load.js.gz?tag\x3dlinio-co-general";b.id="mabayaLoader";a=a.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)})(document);</script><script type="text/javascript" id="">try{(function(){var b="us.",e="OWp935qaWXLlORprBFOg",f=[];f.push("pr_"+e);var g="__rtbhouse.lid",c=window.localStorage.getItem(g);if(!c){c="";for(var h="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789",d=0;20>d;d++)c+=h.charAt(Math.floor(Math.random()*h.length));window.localStorage.setItem(g,c)}f.push("pr_"+e+"_lid_"+c);var a=document.createElement("iframe");e=encodeURIComponent(document.referrer?document.referrer:"");g=encodeURIComponent(document.location.href?document.location.href:
+"");b="https://"+b+"creativecdn.com/tags?type\x3diframe";c=encodeURIComponent(""+Date.now());for(d=0;d<f.length;d++)b+="\x26id\x3d"+encodeURIComponent(f[d]);b+="\x26su\x3d"+g+"\x26sr\x3d"+e+"\x26ts\x3d"+c;a.setAttribute("src",b);a.setAttribute("width","1");a.setAttribute("height","1");a.setAttribute("scrolling","no");a.setAttribute("frameBorder","0");a.setAttribute("style","display:none");a.setAttribute("referrerpolicy","no-referrer-when-downgrade");document.body?document.body.appendChild(a):window.addEventListener("DOMContentLoaded",
+function(){document.body.appendChild(a)})})()}catch(b){console.error("[RTB]",b)};</script><iframe src="https://us.creativecdn.com/tags?type=iframe&amp;id=pr_OWp935qaWXLlORprBFOg&amp;id=pr_OWp935qaWXLlORprBFOg_lid_he6MURBgayT2qowKh14R&amp;su=https%3A%2F%2Fwww.linio.com.co%2Faccount%2Flogin&amp;sr=https%3A%2F%2Fwww.linio.com.co%2F&amp;ts=1660479239476" width="1" height="1" scrolling="no" frameborder="0" style="display:none" referrerpolicy="no-referrer-when-downgrade"></iframe><script type="text/javascript" id="" src="//520000418.collect.igodigital.com/collect.js"></script><script type="text/javascript" id="">(function(){function p(){var a=new URLSearchParams(window.location.search);return a.get("q")}function w(a,c){return function(){var d=m(a,c);q({event:"productClick",currencyCode:r,product:d})}}function m(a,c){if("http://schema.org/Product"===a.getAttribute("itemtype"))return x(a,c);if(a.matches("a.product-card")){var d=g(a,"span.price-main-md")||"",b=a.closest(".manual-feed-swiper")||a.closest(".product-highlights");b=b?b.querySelector(".banner-block-title"):null;var e=n(a);return a={id:e.sku,name:g(a,
+"div.name"),price:Number(d.replace(/\$|\./g,"")),brand:e.brand,category:e.category,position:c,list:b?b?b.textContent||b.innerText:null:"",search_params:p()||""}}d=g(a,"div.price-main-sm")||"";b=document.querySelector("a.nav-link.active");e=n(a.querySelector("a"));return a={id:e.sku,name:g(a,"span.title-recommendation-item"),price:Number(d.replace(/\$|\./g,"")),brand:e.brand,category:e.category,position:c,list:b&&g(b,"span.label-text"),search_params:""}}function y(a){return a=0<a.getElementsByClassName("lighthouse").length?
+1:0}function x(a,c){var d={sku:"id",name:"name",price:"price",brand:"brand"},b=a.getElementsByTagName("meta"),e=y(a);b=Array.from(b).reduce(function(h,k){var l=k.getAttribute("itemprop");k=k.getAttribute("content");l=d[l];if(!l)return h;h[l]=k;h.dimension28=e;return h},{});var f=document.querySelector(".catalogue-title.section-title");a=n(a.querySelector("a"));b.category=a.category;b.position=c;b.list=f?f?f.textContent||f.innerText:null:"";b.search_params=p()||"";return b}function n(a){a=a.getAttribute("data-product-info");
+a=JSON.parse(a)||{};return{sku:a.sku,brand:a.brand,category:""}}function g(a,c){return(a=a.querySelectorAll(c))&&a[0]&&a[0].innerHTML}function t(a){if(a.matches("a")||(a=a.querySelector("a")))return a.href}function q(a){window.dataLayer=window.dataLayer||[];window.dataLayer.push(a)}function z(a){a.forEach(function(c,d){d+=1;m(c,d);d=w(c,d);c.addEventListener("click",d)})}function A(a){var c={rootMargin:"-300px -200px"};u=new IntersectionObserver(B,c);a.forEach(function(d){u.observe(d)})}function C(){var a=
+Array.from(document.querySelectorAll('[itemtype\x3d"http://schema.org/Product"]')).filter(function(b){return b.tagName?"body"!==b.tagName.toLowerCase():!0}),c=Array.from(document.querySelectorAll("a.product-card")),d=Array.from(document.querySelectorAll("div.product-recommendation-item"));return a.concat(c,d)}function B(a,c){var d=[];a.forEach(function(b,e){b.isIntersecting&&(e=v[t(b.target)],e=m(b.target,e),c.unobserve(b.target),d.push(e))});0<d.length&&q({event:"impressions",currencyCode:r,products:d})}
+function D(){productElements=C();productElements.length&&(productElements.forEach(function(a,c){v[t(a)]=c+1}),z(productElements),A(productElements))}function E(a){function c(){var e=new Date,f=document.querySelector('[data-component\x3d"dy-feed"]');f=!(!f||!f.querySelector("a.product-card"));e=6E3<e-d;if(f||e)clearInterval(b),a()}var d=new Date,b=setInterval(c,500)}var r=google_tag_manager["GTM-HGQP"].macro(22),u,v={};E(D)})();</script><script type="text/javascript" id="">(function(){try{var handleError=google_tag_manager["GTM-HGQP"].macro(24);var pushEvent=google_tag_manager["GTM-HGQP"].macro(27);var busqueda;document.querySelectorAll(".btn-search , .search-button span").forEach(function(e){e.addEventListener("click",function(event){try{if(event.target.closest(".btn-search")!=null){busqueda=document.querySelector(".input-group input").value;localStorage.setItem("isSearching","True");localStorage.setItem("device","Desktop");setLocalAndPush(busqueda)}else if(event.target.closest(".search-button span")!=
+null){busqueda=document.querySelector("#input-mobile-search").value;localStorage.setItem("device","Mobile");localStorage.setItem("isSearching","True");setLocalAndPush(busqueda)}}catch(e){handleError(e)}})});document.querySelector("body").addEventListener("mousedown",function(event){try{var target=event.target;if(target.closest("#search-auto-results li")!=null){busqueda=document.querySelector(".input-group input").value||document.querySelector("#input-mobile-search").value;localStorage.setItem("isSearching",
+"True");setLocalAndPush(busqueda)}}catch(e){handleError(e)}});document.querySelector("body").addEventListener("keydown",function(event){var target=event.target;if(event.keyCode===13&&target.closest("li.search-suggestions-item , .input-group , #input-mobile-search")!=null){busqueda=target.value;localStorage.setItem("device","Desktop");localStorage.setItem("isSearching","True");setLocalAndPush(busqueda)}})}catch(error){handleError(error)}function setLocalAndPush(input){var now=new Date;var expiry=now.getTime()+
+36E5;localStorage.setItem("dd_search",expiry);localStorage.setItem("input",input)}})();</script><script type="text/javascript" id="">(function(a,b,d,c,e){if(a.hasOwnProperty("$smcInstall"))return!1;a.$smcInstall=1;a[c]=a[c]||[];a=b.getElementsByTagName(d)[0];b=b.createElement(d);c="dataLayer"!=c?"\x26r\x3d"+c:"";b.async=!0;b.src="//smct.co/tm/?t\x3d"+e+c;a.parentNode.insertBefore(b,a)})(window,document,"script","dataLayer\u2019,\u2019linio.com.co");</script><script type="text/javascript" id="">(function(){var a=google_tag_manager["GTM-HGQP"].macro(28);try{var c=window.document.referrer,b=window.document.location.origin;if(!c.includes(b)&&""!=c){b={};var d=a("utm_source"),e=a("utm_medium"),f=a("utm_campaign"),g=a("gclid"),h=a("gclsrc");if(null!=d||null!=e||null!=f||null!=g||null!=h)b={utm_source:d,utm_medium:e,utm_campaign:f,gclid:g,gclsrc:h};b.referrer=""!==c?encodeURIComponent(c):void 0;var k=JSON.stringify(b);k&&localStorage.setItem("campaign_data_",k)}}catch(l){}})();</script><script type="text/javascript" id="" src="https://cdn.onesignal.com/sdks/OneSignalSDK.js"></script><script type="text/javascript" id="">(function(){try{var f=google_tag_manager["GTM-HGQP"].macro(35),g=google_tag_manager["GTM-HGQP"].macro(38),d=" :: ",h="ui :: main_header :: categories",k="click",b="";document.querySelectorAll("body").forEach(function(e){e.addEventListener("click",function(a){var c=a.target;if(a.target.closest("#main-menu")&&null!=c){if("label-text"==a.target.className||"category-title col-12"==a.target.className)b=a.target.innerText;else if("subcategory-title"==a.target.className&&"row ml-0 mr-0 "==a.target.parentElement.parentElement.className)b=a.target.parentElement.parentElement.firstElementChild.innerText+
+d+a.target.innerText;else if("subcategory-link"==a.target.className&&"row ml-0 mr-0 "==a.target.parentElement.parentElement.className){b=a.target.parentElement.parentElement.firstElementChild.innerText;if("subcategory-title"==c.previousElementSibling.className)b=b+d+a.target.previousElementSibling.innerText;else{for(c=c.previousElementSibling;"subcategory-title"!=c.className;)c=c.previousElementSibling;b=b+d+c.innerText}b=b+d+a.target.innerText}g(h,k,b)}})})}catch(e){f(e)}})();</script><script type="text/javascript" id="">(function(){try{var k=google_tag_manager["GTM-HGQP"].macro(40),c=google_tag_manager["GTM-HGQP"].macro(43),d=" :: ",e="ui :: main_header :: categories",f="click",g="";document.querySelector("body").addEventListener("click",function(a){a=a.target;if(null==a.closest('#categories-menu .item-category-box[href\x3d"#"]')&&null!=a.closest(".item-category-box"))g=a.closest(".item-category-box").lastElementChild.innerText,c(e,f,g);else if(null!=a.closest('[id*\x3d"subcategory-menu-"].mobile-menu.is-open-left .item-section a')){var h=a.closest(".item-section").querySelector(".item-back").innerText;
+if(null!=a.closest(".item-link"))c(e,f,h+d+a.innerText);else if(null!=a.closest(".item-sublink")){for(var b=a.previousElementSibling;"item-sublink"==b.className;)b=b.previousElementSibling;c(e,f,h+d+b.innerText+d+a.innerText)}}})}catch(a){k(a)}})();</script><script type="text/javascript" id="">!function(d,g,e){d.TiktokAnalyticsObject=e;var a=d[e]=d[e]||[];a.methods="page track identify instances debug on off once ready alias group enableCookie disableCookie".split(" ");a.setAndDefer=function(b,c){b[c]=function(){b.push([c].concat(Array.prototype.slice.call(arguments,0)))}};for(d=0;d<a.methods.length;d++)a.setAndDefer(a,a.methods[d]);a.instance=function(b){b=a._i[b]||[];for(var c=0;c<a.methods.length;c++)a.setAndDefer(b,a.methods[c]);return b};a.load=function(b,c){var f="https://analytics.tiktok.com/i18n/pixel/events.js";
+a._i=a._i||{};a._i[b]=[];a._i[b]._u=f;a._t=a._t||{};a._t[b]=+new Date;a._o=a._o||{};a._o[b]=c||{};c=document.createElement("script");c.type="text/javascript";c.async=!0;c.src=f+"?sdkid\x3d"+b+"\x26lib\x3d"+e;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(c,b)};a.load("C76RCIQ0VTGKPUN3HUK0");a.page()}(window,document,"ttq");</script><script type="text/javascript" id="">var utm_source=google_tag_manager["GTM-HGQP"].macro(46),gclid=google_tag_manager["GTM-HGQP"].macro(47);function createCookie(c,d){var b=2592E3;b*=1E3;var a=new Date,e=a.getTime();a.setTime(e+b);a=a.toUTCString();document.cookie=c+"\x3d"+d+"; expires\x3d"+a+"; path\x3d/"}utm_source?createCookie("attr_source_cookie",utm_source):gclid&&createCookie("attr_source_cookie","GoogleAds");</script><script type="text/javascript" id="">(function(){function a(){dataLayer.push(arguments)}function b(c){document.cookie.split("topsort\x3d")[1]||(document.cookie="topsort\x3d"+c+"; expires\x3dWed, 01 Sep 2021 12:00:00 UTC; path\x3d/")}a("event","optimize.callback",{name:google_tag_manager["GTM-HGQP"].macro(48),callback:b})})();</script><script type="text/javascript" id="">_etmc.push(["setOrgId","520000418"]);_etmc.push(["trackPageView"]);</script><div style="display: none;"><img src="https://nova.collect.igodigital.com/c2/520000418/track_page_view?payload=%7B%22title%22%3A%22Compra%20Online%20los%20mejores%20productos%20al%20mejor%20precio%20%7C%20Linio%20Colombia%22%2C%22url%22%3A%22https%3A%2F%2Fwww.linio.com.co%2Faccount%2Flogin%22%2C%22referrer%22%3A%22https%3A%2F%2Fwww.linio.com.co%2F%22%7D" width="0" height="0" title="blank image" alt="" aria-hidden="true" style="display: none;"></div>
+<script type="text/javascript" id="">window.OneSignal=window.OneSignal||[];OneSignal.push(function(){OneSignal.init({appId:"b8fd450e-a04a-4c87-901c-475ad453323c"})});</script><img src="https://t.co/i/adsct?bci=3&amp;eci=2&amp;event_id=e9c3563a-6df5-4d19-a12a-0e2e527473c1&amp;events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&amp;p_id=Twitter&amp;p_user_id=0&amp;pl_id=9a06965d-9448-4ec2-a3d8-63bce303337d&amp;tw_document_href=https%3A%2F%2Fwww.linio.com.co%2Faccount%2Flogin&amp;tw_iframe_status=0&amp;tw_order_quantity=0&amp;tw_sale_amount=0&amp;txn_id=o0fb5&amp;type=javascript&amp;version=2.3.26" height="1" width="1" style="display: none;"><img src="https://analytics.twitter.com/i/adsct?bci=3&amp;eci=2&amp;event_id=e9c3563a-6df5-4d19-a12a-0e2e527473c1&amp;events=%5B%5B%22pageview%22%2C%7B%7D%5D%5D&amp;p_id=Twitter&amp;p_user_id=0&amp;pl_id=9a06965d-9448-4ec2-a3d8-63bce303337d&amp;tw_document_href=https%3A%2F%2Fwww.linio.com.co%2Faccount%2Flogin&amp;tw_iframe_status=0&amp;tw_order_quantity=0&amp;tw_sale_amount=0&amp;txn_id=o0fb5&amp;type=javascript&amp;version=2.3.26" height="1" width="1" style="display: none;"></body><iframe id="__JSBridgeIframe_1.0__" style="display: none;"></iframe><iframe id="__JSBridgeIframe_SetResult_1.0__" style="display: none;"></iframe><iframe id="__JSBridgeIframe__" style="display: none;"></iframe><iframe id="__JSBridgeIframe_SetResult__" style="display: none;"></iframe></html>
